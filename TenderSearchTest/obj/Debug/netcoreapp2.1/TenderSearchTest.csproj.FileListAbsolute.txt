@@ -1,0 +1,14 @@
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\bin\Debug\netcoreapp2.1\TenderSearchTest.deps.json
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\bin\Debug\netcoreapp2.1\TenderSearchTest.runtimeconfig.json
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\bin\Debug\netcoreapp2.1\TenderSearchTest.runtimeconfig.dev.json
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\bin\Debug\netcoreapp2.1\TenderSearchTest.dll
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\bin\Debug\netcoreapp2.1\TenderSearchTest.pdb
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.csprojAssemblyReference.cache
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.csproj.CoreCompileInputs.cache
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.RazorAssemblyInfo.cache
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.RazorAssemblyInfo.cs
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.AssemblyInfoInputs.cache
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.AssemblyInfo.cs
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.RazorTargetAssemblyInfo.cache
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.dll
+C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.pdb
