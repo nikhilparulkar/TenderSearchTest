@@ -12,3 +12,17 @@ C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSear
 C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.RazorTargetAssemblyInfo.cache
 C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.dll
 C:\Users\NIKAL\Documents\Visual Studio 2017\Projects\TenderSearchTest\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.pdb
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\bin\Debug\netcoreapp2.1\TenderSearchTest.deps.json
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\bin\Debug\netcoreapp2.1\TenderSearchTest.runtimeconfig.json
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\bin\Debug\netcoreapp2.1\TenderSearchTest.runtimeconfig.dev.json
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\bin\Debug\netcoreapp2.1\TenderSearchTest.dll
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\bin\Debug\netcoreapp2.1\TenderSearchTest.pdb
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.csprojAssemblyReference.cache
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.csproj.CoreCompileInputs.cache
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.RazorAssemblyInfo.cache
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.RazorAssemblyInfo.cs
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.AssemblyInfoInputs.cache
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.AssemblyInfo.cs
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.RazorTargetAssemblyInfo.cache
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.dll
+C:\Projects\TenderSearch\TenderSearchTest-master\TenderSearchTest\obj\Debug\netcoreapp2.1\TenderSearchTest.pdb

@@ -10,6 +10,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using TenderSearchTest.Services;
+using NJsonSchema;
+using NSwag.AspNetCore;
 
 namespace TenderSearchTest
 {
@@ -27,6 +29,8 @@ namespace TenderSearchTest
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddSingleton<IUserToken, UserToken>();
+            // Register the Swagger services
+            services.AddSwaggerDocument();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -36,6 +40,10 @@ namespace TenderSearchTest
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            // Register the Swagger generator and the Swagger UI middlewares
+            app.UseSwagger();
+            app.UseSwaggerUi3();
 
             app.UseMvc();
         }
