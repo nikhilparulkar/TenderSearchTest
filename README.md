@@ -6,8 +6,12 @@ This code provides RestFul WebAPIs for Tender Search coding Challenge. The code 
 2) EF CORE
 3) SQL Server 2017
 4) VS 2017 
+5) Swagger Document/UI using Nswag
 
-It expose 5 endpoint 
+It expose 5 endpoint. Build the the project in VS 2017 (with net core 2.1 installed) . Click debug and It will open 
+url http://localhost:49887/api/values. Now type in browser http://localhost:49887/swagger/index.html
+
+It will openthe Swagger UI with list of all the web API as follows:
 
 GET : /AccessToken : To retrieve a JWT access token by sending username(Email) and Password.
 GET : /tenders     : To retrieve all the tenders associated with login (username/email). 
