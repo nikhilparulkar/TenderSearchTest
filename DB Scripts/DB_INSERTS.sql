@@ -1,8 +1,8 @@
---INSERT INTO [User] (Email,Passwd) VALUES
---('a@gmail.com','1234'),
---('b@gmail.com','1234'),
---('c@gmail.com','1234')
---GO
+INSERT INTO [User] (Email,Passwd) VALUES
+('a@gmail.com','1234'),
+('b@gmail.com','1234'),
+('c@gmail.com','1234')
+GO
 
 insert into [TenderDetails] ([UserID],
 [ReferenceNumber],[Name],[ReleaseDate],[ClosingDate])
